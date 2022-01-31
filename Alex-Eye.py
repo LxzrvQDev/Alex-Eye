@@ -44,7 +44,7 @@ def ip():
 		except:
 			pass
 		try:
-			print('[Провайдер] : ' + r['org'])
+			print('[Provider] : ' + r['org'])
 		except:
 			pass
 		try:
