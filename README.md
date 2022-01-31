@@ -8,7 +8,7 @@ The utility was created to break through a person by IP-Adress and for Low DDoS 
 `pip install requests`
 
 `git clone https://github.com/LxzrvQDev/Alex-Eye`
-# Запуск
+# Launch
 `cd Alex-Eye`
 
 `python Alex-Eye.py`
