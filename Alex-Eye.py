@@ -61,7 +61,7 @@ def ip():
 	main()
 
 def dos():
-	print('Enter the victim's IP-Adress(if you want to use your own IP-Adress, do not enter anything).')
+	print('Enter the victim s IP-Adress(if you want to use your own IP-Adress, do not enter anything).')
 	ip = input('>>> ')
 	if ip == '':
 		ip = '127.0.0.1'
